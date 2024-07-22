@@ -34,7 +34,7 @@
     "package.json": "^2.0.1",
     "raven-js": "^3.1.0",
     "rxjs": "5.5.7",
-    "showdown": "^1.6.4",
+    "showdown": "^1.9.1",
     "url-parse": "^1.5.9"
   },
   "devDependencies": {
